@@ -1,0 +1,6 @@
+style.css
+	h1 {color: green} p {color: gold} ul {color: orange}
+	h1 {font-family: "DIN Condensed"} h1{font-weight: normal}
+	p {font-family: Helvetica} p {font-weight: bold}
+	ul {font-family: "DIN Condensed"} ul {font-size: 20px; }
+	slogan {color: gold} {font-family: "Futura"}
